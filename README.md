@@ -1,11 +1,11 @@
-<div class="fstPage">
-
 ## Greetings!
 
 Welcome! I'm a passionate security professional who is primarily focused on application security. I focus primarily on web applications, but I also have an interest in TLS as well.
 
 Also proud member of the [@TheBeerFarmers](http://thebeerfarmers.org/) as well as [The Many Hats Club](https://themanyhats.club/).
-***
+
+---
+
 ### Web Sites
 
 * **Peronsal Blog:** [https://blog.sean-wright.com/](https://blog.sean-wright.com/)
@@ -20,5 +20,3 @@ You can find me at:
 * [Keybase](https://keybase.io/sean_wright)
 * [Twitch](https://www.twitch.tv/seanwrightsec)
 * [YouTube](https://www.youtube.com/channel/UC79ThesxTbp9QRX45kMpoLA)
-
-</div>
