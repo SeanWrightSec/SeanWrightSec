@@ -1,16 +1,18 @@
-### Hi there 👋
+## Greetings!
 
-<!--
-**SeanWrightSec/SeanWrightSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome! I'm a passionate security professional who is primarily focused on application security. I focus primarily on web applications, but I also have an interest in TLS as well.
 
-Here are some ideas to get you started:
+### Web Sites
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Peronsal Blog:** [https://blog.sean-wright.com/](https://blog.sean-wright.com/)
+* **Security Resources:** [http://resources.sean-wright.com/](http://resources.sean-wright.com/)
+
+### Contact Me
+
+You can find me at:
+
+* [Twitter](https://twitter.com/SeanWrightSec)
+* [LinkedIn](https://www.linkedin.com/in/seanwright01/)
+* [Keybase](https://keybase.io/sean_wright)
+* [Twitch](https://www.twitch.tv/seanwrightsec)
+* [YouTube](https://www.youtube.com/channel/UC79ThesxTbp9QRX45kMpoLA)
