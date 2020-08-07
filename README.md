@@ -1,4 +1,4 @@
-<div class="fstPage"></div>
+<div class="fstPage">
 
 ## Greetings!
 
@@ -20,3 +20,5 @@ You can find me at:
 * [Keybase](https://keybase.io/sean_wright)
 * [Twitch](https://www.twitch.tv/seanwrightsec)
 * [YouTube](https://www.youtube.com/channel/UC79ThesxTbp9QRX45kMpoLA)
+
+</div>
