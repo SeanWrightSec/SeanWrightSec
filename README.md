@@ -4,8 +4,6 @@ Welcome! I'm a passionate security professional who is primarily focused on appl
 
 Also proud member of the [@TheBeerFarmers](http://thebeerfarmers.org/) as well as [The Many Hats Club](https://themanyhats.club/).
 
----
-
 ### Web Sites
 
 * **Peronsal Blog:** [https://blog.sean-wright.com/](https://blog.sean-wright.com/)
