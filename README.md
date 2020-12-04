@@ -2,7 +2,7 @@
 
 Welcome! I'm a passionate security professional who is primarily focused on application security. I focus primarily on web applications, but I also have an interest in TLS as well.
 
-Also proud member of the [@TheBeerFarmers](http://thebeerfarmers.org/) as well as [The Many Hats Club](https://themanyhats.club/).
+Also proud member of the [@TheBeerFarmers](http://thebeerfarmers.org/).
 
 ### Web Sites
 
