@@ -1,8 +1,8 @@
 ## Greetings!
 
-Welcome! I'm a passionate security professional who is primarily focused on application security. I focus primarily on web applications, but I also have an interest in TLS as well.
+Welcome! I'm an experienced application security engineer with an origin as a software developer. I primarily focus on web-based application security but I also have a special interest in TLS and supply chain related subjects. I have experience in providing technical leadership in relation to application security, as well as engaging with teams to improve the security of systems and applications that they develop and maintain. Finally, I am greatly passionate to be a part of the community and giving back to the community. I also enjoy spending personal time performing personal security-related research.
 
-Also proud member of the [@TheBeerFarmers](http://thebeerfarmers.org/).
+I am also a member of the [@TheBeerFarmers](http://thebeerfarmers.org/).
 
 ### Web Sites
 
