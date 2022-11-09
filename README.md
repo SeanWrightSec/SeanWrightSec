@@ -12,7 +12,6 @@ Welcome! I'm an experienced application security engineer with an origin as a so
 You can find me at:
 
 * [Twitter](https://twitter.com/SeanWrightSec)
-* [Mastodon](https://infosec.exchange/@SeanWrightSec)
 * [LinkedIn](https://www.linkedin.com/in/seanwright01/)
 * [Keybase](https://keybase.io/sean_wright)
 * [Twitch](https://www.twitch.tv/seanwrightsec)
